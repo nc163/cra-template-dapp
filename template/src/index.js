@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { WagmiConfig } from 'wagmi'
+
 import './index.css';
-import App from './App';
+import WagmiClient from './wagmiClient';
+import Dapp from './Dapp';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <WagmiConfig client={WagmiClient}>
+      <Dapp />
+    </WagmiConfig>
   </React.StrictMode>
 );
 

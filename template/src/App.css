@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Wallet-connect-btn {
+    background-color: #ffffff;
+    color: #282c34;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.Error-msg {
+    color: red;
+    font-size: small;
+}
