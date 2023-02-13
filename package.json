@@ -1,0 +1,24 @@
+{
+  "name": "@nc163/cra-template-wagmi",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nc163/cra-template-dapp.git"
+  },
+  "author": "nc163 (https://twitter.com/nc163)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nc163/cra-template-dapp/issues"
+  },
+  "homepage": "https://github.com/nc163/cra-template-dapp#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
