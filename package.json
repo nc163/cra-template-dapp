@@ -9,14 +9,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nc163/cra-template-dapp.git"
+    "url": "git+https://github.com/nc163/cra-template-wagmi.git"
   },
   "author": "nc163 (https://twitter.com/nc163)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nc163/cra-template-dapp/issues"
+    "url": "https://github.com/nc163/cra-template-wagmi/issues"
   },
-  "homepage": "https://github.com/nc163/cra-template-dapp#readme",
+  "homepage": "https://github.com/nc163/cra-template-wagmi#readme",
   "files": [
     "template",
     "template.json"
